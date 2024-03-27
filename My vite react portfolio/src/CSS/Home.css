@@ -1,0 +1,29 @@
+.home-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+
+  .home-header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+  }
+
+  .home-header h1 {
+    font-size: 32px;
+    margin: 0;
+  }
+
+  .home-navigation ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+
+  .home-navigation li {
+    margin-right: 20px;
+  }
+
+  .home-navigation a:hover {
+    text-decoration: underline;
+  }
